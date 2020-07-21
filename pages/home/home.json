@@ -1,5 +1,6 @@
 {
   "usingComponents": {
-    "clock-button": "../../components/Button/index"
+    "clock-button": "../../components/Button/index",
+    "clock-main": "../../components/Clock/clock"
   }
 }
