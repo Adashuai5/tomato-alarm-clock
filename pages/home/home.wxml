@@ -1,0 +1,5 @@
+<!--pages/home/home.wxml-->
+<view>
+	<clock-button innerText="点我" type="change"></clock-button>
+	<clock-button innerText="点我" size="mini"></clock-button>
+</view>

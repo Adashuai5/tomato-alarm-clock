@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "clock-button": "../../components/Button/index"
+  }
+}

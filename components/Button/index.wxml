@@ -1,2 +1,4 @@
-<!--pages/total/total.wxml-->
-<button class="tomato-button {{type === 'change' ? 'change' : 'default'}} {{size === 'mini' ? 'mini' : 'medium'}}">{{innerText}}</button>
+<!-- pages/total/total.wxml -->
+<button class="tomato-button {{type === 'default' ? 'default' : 'change'}} {{size === 'mini' && 'mini'}}">
+	{{innerText}}
+</button>
